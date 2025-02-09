@@ -22,3 +22,6 @@ This project extracts data from journal websites and processes student paper sum
  2. Make sure Java is installed on your computer: https://www.oracle.com/java/technologies/downloads/
  3. Update the `currentSemester` and `journalURLs` variables with the relevant information.
  4. Run the script to extract journal data, process student submissions, and generate the necessary files.
+
+## Data Statement
+The sample data provided in the src folder is generated using ChatGPT and contains no data from real people
